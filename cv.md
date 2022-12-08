@@ -1,15 +1,11 @@
 ## EKATERINA KRASKOVA
 
----
-
 ### Contacts:
 
-- Tel: +995598159374 GE
-- E-mail: kraskovaka@gmail.com
+- Tel: +995598159374 **GE**
+- E-mail: *kraskovaka@gmail.com*
 - Telegram: @kraskka
 - Discord: kraskakraskova#9741
-
----
 
 ### About myself:
 
@@ -21,8 +17,6 @@ Had a little concern to webdesign.
 ### Skills:
 
 Basics of HTML, CSS, Bootstrap, GitHub, Figma.
-
----
 
 ### Code example:
 
@@ -62,15 +56,11 @@ Basics of HTML, CSS, Bootstrap, GitHub, Figma.
 
 Have no relevant yet.
 
----
-
 ### Education:
 
 Now student of JS/FE Pre-School 2022Q4.
 
----
-
 ### Languages:
 
 - English- B2
-- Russian- native
+- Russian- _native_
